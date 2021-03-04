@@ -1,5 +1,3 @@
-
-
 (define (domain Hospital)
 
 ;remove requirements that are not needed
